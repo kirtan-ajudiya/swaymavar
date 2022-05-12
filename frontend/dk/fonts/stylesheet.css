@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'humanst521_lt_btlight_italic';
+    src: url('humanst521_lt_bt_light_italic-webfont.woff2') format('woff2'),
+         url('humanst521_lt_bt_light_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'humanst521_lt_btlight';
+    src: url('humanst521_lt_bt_light-webfont.woff2') format('woff2'),
+         url('humanst521_lt_bt_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {font-family: "Segoe UI Historic";
+    src: url('Segoe-UI-Historic.eot'); /* IE9*/
+    src: url('Segoe-UI-Historic.eot') format("embedded-opentype"), /* IE6-IE8 */
+    url('Segoe-UI-Historic.woff2') format("woff2"), /* chrome firefox */
+    url('Segoe-UI-Historic.woff') format("woff"), /* chrome firefox */
+    url('Segoe-UI-Historic.ttf') format("truetype"); /* chrome firefox opera Safari, Android, iOS 4.2+*/
+}

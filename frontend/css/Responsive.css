@@ -1,0 +1,244 @@
+@media only screen and (max-width:1280px) {
+    .post-slide .post-content{
+        padding: 0px 15px 25px 15px;
+    }
+}
+
+
+@media only screen and (max-width: 1200px) {
+        header.header.sticky .menu > ul > li {
+      padding: 0 10px !important;
+    }
+
+
+}
+
+@media only screen and (max-width: 1400px) {
+
+.accordion-title:after {
+    right: 0 !important;
+    left: 225px !important;
+}
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+
+    .accordion-title:after {
+        right: 0 !important;
+        left: 225px !important;
+    }
+    }
+
+@media only screen and (max-width: 1700px) {
+    header.header.sticky .menu > ul > li {
+      padding: 0 10px !important;
+    }
+}
+
+@media only screen and  (max-width: 1024px) {
+  .sticky.header .menu ul li.cart_icon {
+    display: none !important;
+  }
+}
+
+@media only screen and (max-width: 900px)  {
+    header.header.sticky .menu-mobile-trigger {
+      position: absolute;
+      float: right;
+      right: 5%;
+      top: 32%;
+    }
+    .header-logo img {
+        display: block;
+        width: 100%;
+        height: 75px;
+        object-fit: cover;
+    }
+    .header-icon ul li a i {
+        color: #fff;
+    }
+    .content_text {
+        height: 260px;
+    }
+    .content_text h2 {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .content_text p {
+        font-size: 13px;
+    }
+    .accordion-title:after {
+        right: 0 !important;
+        left: 280px !important;
+    }
+}
+
+@media only screen and (max-width: 600px)  {
+    .header-logo img {
+        display: block;
+    }
+ }
+
+@media only screen and (max-width: 700px)  {
+
+    .sticky.header ul.right-icon {
+        display: none;
+    }
+
+    header.header.sticky .menu-mobile-trigger {
+        margin-left: 6.25rem;
+    }
+
+    .content_banner h1 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .content_banner p {
+        font-size: 18px;
+        line-height: 23px;
+    }
+
+    section.Next_section.gap_section.blog-loop.grid-blog {
+        margin-bottom: 0px;
+        bottom: 0px;
+    }
+
+    section .title h4 , section .title h3 {
+        font-size: 30px;
+    }
+    .owl-controls .owl-buttons .owl-next , .owl-controls .owl-buttons .owl-prev {
+        top: -15%;
+    }
+
+    .social-links ul {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 60px;
+    }
+
+    /* a.footer_logo img {
+        width: 100%;
+    } */
+    .bottom_footer p {
+        text-align: center;
+    }
+    .bottom_footer .icon {
+        text-align: center;
+    }
+}
+
+
+@media only screen and (min-width: 350px) and (max-width: 649px)  {
+
+  section.top_banner , .top_banner:before {
+      height: 300px;
+  }
+
+  .header-icon li span.badgesc {
+    position: relative;
+    left: auto;
+    right: 35%;
+    bottom: 35%;
+  }
+
+  .sidebar_sticky {
+    position: inherit !important;
+  }
+
+  .post-slide .card_img .img-fluid {
+    height: 120px;
+  }
+
+  .top_footer a.footer_logo img {
+      width: 55%;
+      object-fit: cover;
+  }
+  .la-3x  {
+      font-weight: 900;
+      font-size: 2em;
+  }
+
+  .mobile-center {
+    text-align: center;
+  }
+
+  .product-grid .product-img img {
+    height: 150px !important;
+  }
+
+  .n-css .form-check-label {
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  .naitik-css .table td, .naitik-css .table th {
+    font-size: 14.5px;
+  }
+
+  section.Next_section.gap_section.Banner_bottom {
+    position: relative;
+    left: 0;
+    right: 0;
+    margin-bottom: -50px;
+    bottom: 50px;
+  }
+}
+
+
+@media only screen and (min-width: 650px) and (max-width: 1022px)  {
+
+  section.top_banner , .top_banner:before {
+      height: 500px;
+  }
+
+  .header-icon li span.badgesc {
+    position: relative;
+    left: auto;
+    right: 35%;
+    bottom: 35%;
+  }
+
+  .post-slide .card_img .img-fluid {
+    height: 170px;
+  }
+
+  .top_footer a.footer_logo img {
+      width: 60%;
+      object-fit: cover;
+  }
+
+  .n-css .form-check-label {
+    margin-bottom: 20px;
+    width: 100%;
+  }
+
+  main section {
+    margin: 5px 0;
+    padding: 5px 0;
+  }
+
+  .bottom_footer p {
+    margin: 10px 0;
+    line-height: 20px;
+  }
+
+  .pt-20 {
+    padding-top: 0px;
+  }
+
+  .product-grid .product-img img {
+    height: 150px !important;
+  }
+
+  ul.icons a {
+    font-size: 16px;
+    padding: 12px;
+  }
+
+  h4.accordion-title.js-accordion-title {
+    font-size: 15px;
+  }
+  .product-grid .product-item {
+    width: 50%;
+  }
+}
